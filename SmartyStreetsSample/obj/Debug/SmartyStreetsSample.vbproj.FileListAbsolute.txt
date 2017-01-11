@@ -1,0 +1,13 @@
+C:\Users\Marcelo\AppData\Local\Temporary Projects\SmartyStreetsSample\bin\Debug\SmartyStreetsSample.exe.config
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\bin\Debug\SmartyStreetsSample.exe.config
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\bin\Debug\SmartyStreetsSample.exe
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\bin\Debug\SmartyStreetsSample.pdb
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\bin\Debug\SmartyStreetsSample.xml
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\bin\Debug\smartystreets-csharp-sdk.dll
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\obj\Debug\SmartyStreetsSample.vbprojResolveAssemblyReference.cache
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\obj\Debug\SmartyStreetsSample.Form1.resources
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\obj\Debug\SmartyStreetsSample.Resources.resources
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\obj\Debug\SmartyStreetsSample.vbproj.GenerateResource.Cache
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\obj\Debug\SmartyStreetsSample.exe
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\obj\Debug\SmartyStreetsSample.xml
+C:\code\desktop\SmartyStreetsSample\SmartyStreetsSample\obj\Debug\SmartyStreetsSample.pdb
